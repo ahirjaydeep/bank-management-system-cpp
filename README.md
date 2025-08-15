@@ -27,3 +27,8 @@ It allows users to create accounts, perform transactions, and store all data in 
 ```bash
 g++ main.cpp -o BankManagement
 ./BankManagement
+```
+## Author
+
+Jaydeep Ahir
+[LinkedIn](https://www.linkedin.com/in/jaydeep-ahir-811743209/)
